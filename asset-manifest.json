@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f12ac534.css",
-    "main.js": "/Portfolio/static/js/main.eb825b6d.js",
+    "main.js": "/Portfolio/static/js/main.6e2f1b37.js",
     "static/media/about04.png": "/Portfolio/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/Portfolio/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/about01.png": "/Portfolio/static/media/about01.080509de05322b7aafda.png",
@@ -20,6 +20,7 @@
     "static/media/awslogo.png": "/Portfolio/static/media/awslogo.316da603b6d42393e022.png",
     "static/media/fmm.jpg": "/Portfolio/static/media/fmm.651dd01891c36c015440.jpg",
     "static/media/pytorch.png": "/Portfolio/static/media/pytorch.589602cdfcf9eab15b79.png",
+    "static/media/cfs_linux.jpg": "/Portfolio/static/media/cfs_linux.3e776e291ca1b7ff6c0e.jpg",
     "static/media/bolt.png": "/Portfolio/static/media/bolt.64e7d9d30ece478ef3a0.png",
     "static/media/redux.png": "/Portfolio/static/media/redux.c9be37e0fece29c624b0.png",
     "static/media/sass.png": "/Portfolio/static/media/sass.36e863bfbcb25c109d00.png",
@@ -43,10 +44,10 @@
     "index.html": "/Portfolio/index.html",
     "static/media/circle.svg": "/Portfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.f12ac534.css.map": "/Portfolio/static/css/main.f12ac534.css.map",
-    "main.eb825b6d.js.map": "/Portfolio/static/js/main.eb825b6d.js.map"
+    "main.6e2f1b37.js.map": "/Portfolio/static/js/main.6e2f1b37.js.map"
   },
   "entrypoints": [
     "static/css/main.f12ac534.css",
-    "static/js/main.eb825b6d.js"
+    "static/js/main.6e2f1b37.js"
   ]
 }
