@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f12ac534.css",
-    "main.js": "/Portfolio/static/js/main.6e2f1b37.js",
+    "main.js": "/Portfolio/static/js/main.ee5ae91b.js",
     "static/media/about04.png": "/Portfolio/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/Portfolio/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/about01.png": "/Portfolio/static/media/about01.080509de05322b7aafda.png",
     "static/media/bgIMG.png": "/Portfolio/static/media/bgIMG.c39101e520e2997fc6d4.png",
     "static/media/bgWhite.png": "/Portfolio/static/media/bgWhite.79658cadae50b3b16ee5.png",
     "static/media/about03.png": "/Portfolio/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/risc-v.png": "/Portfolio/static/media/risc-v.d3eee85e84acacd26b1d.png",
     "static/media/spotify.png": "/Portfolio/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
     "static/media/nb.png": "/Portfolio/static/media/nb.98f3253e32cc67a4cb5e.png",
     "static/media/profile.png": "/Portfolio/static/media/profile.ccc466c51820b731faa5.png",
@@ -44,10 +45,10 @@
     "index.html": "/Portfolio/index.html",
     "static/media/circle.svg": "/Portfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.f12ac534.css.map": "/Portfolio/static/css/main.f12ac534.css.map",
-    "main.6e2f1b37.js.map": "/Portfolio/static/js/main.6e2f1b37.js.map"
+    "main.ee5ae91b.js.map": "/Portfolio/static/js/main.ee5ae91b.js.map"
   },
   "entrypoints": [
     "static/css/main.f12ac534.css",
-    "static/js/main.6e2f1b37.js"
+    "static/js/main.ee5ae91b.js"
   ]
 }
